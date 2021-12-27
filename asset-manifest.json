@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactassign1/static/css/main.3428e8f6.css",
+    "main.js": "/reactassign1/static/js/main.dfd0ec76.js",
+    "static/js/787.c993db88.chunk.js": "/reactassign1/static/js/787.c993db88.chunk.js",
+    "index.html": "/reactassign1/index.html",
+    "main.3428e8f6.css.map": "/reactassign1/static/css/main.3428e8f6.css.map",
+    "main.dfd0ec76.js.map": "/reactassign1/static/js/main.dfd0ec76.js.map",
+    "787.c993db88.chunk.js.map": "/reactassign1/static/js/787.c993db88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3428e8f6.css",
+    "static/js/main.dfd0ec76.js"
+  ]
+}
