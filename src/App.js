@@ -16,7 +16,6 @@ function App() {
   ]
   return (
     <div>
-      <p>This is App page</p>
       <Home title={post}></Home>
     </div>
   )
