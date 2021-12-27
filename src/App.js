@@ -17,7 +17,7 @@ function App() {
   ]
   return (
     <div>
-      <p>This are the posts </p>
+      <p>These are the posts </p>
       <Home title={post}></Home>
     </div>
   )
