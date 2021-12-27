@@ -2,6 +2,7 @@ import React from 'react';
 import Home from './component/Post';
 
 function App() {
+  
   const post = [
     {"id":0, "postname":"Anil", "post_description":"description1","img": "https://picsum.photos/200","author": "author1","date": "11/12/2016"},
     {"id":1, "postname":"anuj", "post_description":"description2","img": "https://picsum.photos/201","author": "author2","date": "12/12/2016"},
@@ -16,6 +17,7 @@ function App() {
   ]
   return (
     <div>
+      <p>This are the posts </p>
       <Home title={post}></Home>
     </div>
   )
